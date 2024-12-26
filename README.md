@@ -1,8 +1,6 @@
 <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
-  <h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 10px; text-align: left;">🚀 torch Basic</h1>
+  <h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 20px; text-align: left;">🚀 Torch Basic</h1>
 
-   <hr style="border: 1px solid #D0D0D0; margin: 20px 0;">
-   
   <h3 style="font-size: 1.3em; margin-bottom: 10px; text-align: left;">📖 Overview</h3>
   <p style="line-height: 1.6; color: #444; text-align: left;">
     <b>AI Basic</b> 레포지토리는 PyTorch를 기반으로 인공지능과 딥러닝의 핵심 개념 및 구현을 학습하기 위한 프로젝트입니다. 단계별 학습 자료와 실습 예제들을 통해 기초부터 고급 주제까지 다룹니다.
