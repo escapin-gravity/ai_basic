@@ -1,4 +1,4 @@
-<div style="max-width: 800px; margin: 0 auto; padding: 20px;">
+<div style="max-width: 800px; margin: 0 auto;">
   <h1 style="font-size: 2.5em; font-weight: bold; margin-bottom: 20px; text-align: left;">🚀 Torch Basic</h1>
 
   <h3 style="font-size: 1.3em; margin-bottom: 10px; text-align: left;">📖 Overview</h3>
